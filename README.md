@@ -6,6 +6,10 @@ Pick sections of a video, join them in any order, and shrink the result under a 
 
 
 
+&#x20;  !\[ClipShrink screenshot](ClipShrink.png)
+
+
+
 \## Features
 
 
